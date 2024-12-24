@@ -1,4 +1,7 @@
 # delivery-giotto-bot
+Bot for Ordering Food with Feedback Mechanism A simple Telegram bot that allows users to view a menu, order food, and provide feedback on products and services. The bot supports features such as adding items to the cart, viewing order details, and handling feedback for products, delivery, and services. Built using Python and aiogram.
+
+
 # 🚀 **Giotto Delivery Bot** 🍕🤖  
 
 Welcome to the **Giotto Delivery Bot**! A Telegram bot designed to make your food ordering experience seamless and enjoyable. With multilingual support, dynamic menus, and SMS verification, it's your go-to assistant for food delivery. 🛵✨  
